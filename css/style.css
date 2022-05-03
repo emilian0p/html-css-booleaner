@@ -16,7 +16,6 @@ header{
 }
 .solo{
     display: block;
-    margin-bottom: 10px;
 }
 .vicino{
     margin-top: 0px;
@@ -33,4 +32,8 @@ header{
 }
 .sinistra{
     padding-left: 20px;
+}
+.solo1{
+    margin-bottom: 10px;
+    display: block;
 }
