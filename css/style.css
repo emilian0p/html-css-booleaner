@@ -1,5 +1,32 @@
-header{
-    background-image: url(../img/pattern.png);
-    background-size: contain;
+body{
+    margin: 0px;
 }
 
+
+header{
+    background-image: url(../img/pattern.png);
+    background-size: 300px;
+    background-repeat: repeat;
+    height: 75px;
+    background-color: rgb(78, 160, 255);
+}
+
+.grigio{
+    color: rgb(212, 212, 212);
+}
+.solo{
+    display: block;
+}
+.vicino{
+    margin-top: 0px;
+}
+.vicino1{
+    margin-bottom: 0px;
+}
+.vicino3{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.descrizione{
+    font-size: small;
+}
