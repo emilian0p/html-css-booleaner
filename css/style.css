@@ -16,6 +16,7 @@ header{
 }
 .solo{
     display: block;
+    margin-bottom: 10px;
 }
 .vicino{
     margin-top: 0px;
@@ -29,4 +30,7 @@ header{
 }
 .descrizione{
     font-size: small;
+}
+.sinistra{
+    padding-left: 20px;
 }
